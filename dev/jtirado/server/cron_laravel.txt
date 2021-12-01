@@ -1,0 +1,2 @@
+* * * * * cd /var/www/e2m && php artisan schedule:run >> /dev/null 2>&1
+
